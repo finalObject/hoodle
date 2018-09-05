@@ -1,4 +1,5 @@
 原本在这里 <a href="http://finalobject.cn/lucario/hoddle">finalobject.cn</a>
+
 刚刚开始接触python，在实验室翻到了一本python的书，感觉像是给零基础，甚至可能是小孩看的，名字记不起来了，反正看着很有意思，教你写几个小游戏。花了两天时间follow了两个游戏，一个是这个，另外一个是火柴人。
 
 把自己实现的过程，还有一些对于tkinter和python的理解记录下来。
